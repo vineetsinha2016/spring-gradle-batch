@@ -7,3 +7,8 @@ spring:
     url: "jdbc:postgresql://localhost:5432/batch"
     username: batchuser
     password: fuckinbatch
+
+  batch:
+    initialize-schema: ALWAYS
+  main:
+    web-application-type: none

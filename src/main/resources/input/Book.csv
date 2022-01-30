@@ -1,5 +1,5 @@
 vehicleId	VIN	model	year	color	company	category
-Vehicle1	FAKEVIN1	Malibu	2018	Black	GM	Sedan
-Vehicle2	FAKEVIN2	Explorer	2019	Blue	Ford	SUV
-Vehicle3	FAKEVIN3	Pacifica	2020	White	Chrysler	MiniVan
-Vehicle4	FAKEVIN4	Beetle	2021	Silver	VW	Coupe
+Vehicle1,	FAKEVIN1,	Malibu,	2018,	Black,	GM,	Sedan
+Vehicle2,	FAKEVIN2,	Explorer,	2019,	Blue,	Ford,	SUV
+Vehicle3,	FAKEVIN3,	Pacifica,	2020,	White,	Chrysler,	MiniVan
+Vehicle4,	FAKEVIN4,	Beetle,	2021,	Silver,	VW,	Coupe
